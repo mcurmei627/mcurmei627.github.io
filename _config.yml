@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mihaela Curmei"
   avatar           : "profile.jpg"
-  bio              : "First year graduate student in Electrical Engineering and Computer Science at University of California Berkeley"
+  bio              : "EECS PhD student @ Berkeley"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "hhttps://scholar.google.com/citations?user=nc6hvFgAAAAJ&hl=en"
-  email            : "{first initial}{last name} at berkeley.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=nc6hvFgAAAAJ&hl=en"
+  email            : "mcurmei@eecs.berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mihaela-curmei"
+  linkedin         : "mihaela-curmei"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

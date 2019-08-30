@@ -13,6 +13,7 @@ Education
 ======
 *2019 - current*
 :   **PhD, Electrical Engineering and Computer Science** University of California, Berkeley
+------
 
 *2013 - 2017*
 :   **BSE, Operations Research and Financial Engineering** Princeton University

@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+
 * B.S.E. in Operations Research and Financial Engineering, Princeton University, NJ,  September 2013 - June 2017
   * Graduated Summa Cum Laude
   * Earned a certificate in Applications of Computing

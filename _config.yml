@@ -83,8 +83,8 @@ author:
   name             : "Mihaela Curmei"
   avatar           : "profile.jpg"
   bio              : "EECS PhD student"
-  location         : "Berkeley, CA"
-  employer         :  "University of California, Berkeley"
+  location         : 
+  employer         : "University of California, Berkeley"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nc6hvFgAAAAJ&hl=en"
   email            : "mcurmei@eecs.berkeley.edu"

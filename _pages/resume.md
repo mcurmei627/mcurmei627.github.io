@@ -11,29 +11,27 @@ redirect_from:
 
 Education
 ======
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+*2019 - current*
+:   **PhD, Electrical Engineering and Computer Science** University of California, Berkeley
 
-* B.S.E. in Operations Research and Financial Engineering, Princeton University, NJ,  September 2013 - June 2017
-  * Graduated Summa Cum Laude
-  * Earned a certificate in Applications of Computing
-  * Thesis: ”Monotonically Constrained Polynomial Regression: An Application of Sum of Squares Techniques and Semidefinite Programming
-  * Winner of Procter & Gamble Prize for Outstanding Senior Thesis
-  * Advisers: Amir Ali Ahmadi & Georgina Hall
+*2013 - 2017*
+:   **BSE, Operations Research and Financial Engineering** Princeton University
+      * Graduated Summa Cum Laude
+      * Earned a certificate in Applications of Computing
+      * Thesis: *”Monotonically Constrained Polynomial Regression: An Application of Sum of Squares Techniques and Semidefinite Programming"*
+      * Winner of Procter & Gamble Prize for Outstanding Senior Thesis
+      * Advisers: Amir Ali Ahmadi & Georgina Hall
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*2017 - 2019*
+:   **Software Development Engineering** Microsoft, Redmond, WA
+      * Worked on short to mid-term engagements with commercial partners, independent software vendors and NGOs on exploring cutting edge AI technologies and innovative ML applications.
+      * Built together with teams from Amazon, Google and the World Bank Famine Prevention program an explainable and interpretable ML pipeline for crisis prediction; such that financial aid institution can preemptively allocate funds to communities at risk. Project under executive sponsorship of Microsoft Philanthropies.
+      * Prototyped Reinforcement Learning frameworks for industrial scenarios, in partnership with a commercial airline and a Formula 1 race team. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1

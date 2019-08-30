@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.E. in Operations Research and Financial Engineering, Princeton University, NJ,  September 2013 - June 2017
+  * Graduated Summa Cum Laude
+  * Earned a certificate in Applications of Computing
+  * Thesis: ”Monotonically Constrained Polynomial Regression: An Application of Sum of Squares Techniques and Semidefinite Programming
+  * Winner of Procter & Gamble Prize for Outstanding Senior Thesis
+  * Advisers: Amir Ali Ahmadi & Georgina Hall
+
 
 Work experience
 ======

@@ -75,16 +75,16 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "131432010"
 
 
 # Site Author
 author:
   name             : "Mihaela Curmei"
   avatar           : "profile.jpg"
-  bio              : "EECS PhD student @ Berkeley"
+  bio              : "EECS PhD student"
   location         : "Berkeley, CA"
-  employer         :
+  employer         :  "University of California, Berkeley"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nc6hvFgAAAAJ&hl=en"
   email            : "mcurmei@eecs.berkeley.edu"

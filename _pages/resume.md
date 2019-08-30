@@ -12,17 +12,19 @@ redirect_from:
 Education
 ======
 *2019 - current*
-:   **PhD, Electrical Engineering and Computer Science** University of California, Berkeley
-------
+:   **PhD, Electrical Engineering and Computer Science** 
+:   *University of California, Berkeley*
+- - - 
 
 *2013 - 2017*
-:   **BSE, Operations Research and Financial Engineering** Princeton University
+:   **BSE, Operations Research and Financial Engineering** 
+:   *Princeton University, NJ*
       * Graduated Summa Cum Laude
       * Earned a certificate in Applications of Computing
       * Thesis: *”Monotonically Constrained Polynomial Regression: An Application of Sum of Squares Techniques and Semidefinite Programming"*
       * Winner of Procter & Gamble Prize for Outstanding Senior Thesis
       * Advisers: Amir Ali Ahmadi & Georgina Hall
-
+- - -
 
 Work experience
 ======

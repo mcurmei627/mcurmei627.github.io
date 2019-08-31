@@ -21,7 +21,7 @@ Education
 
 *2013 - 2017*
 :   **BSE, Operations Research and Financial Engineering** 
-:   *Princeton University, NJ*
+:   *Princeton University, NJ* 
     - Summa Cum Laude
     - Certificate in Applications of Computing.
     - Thesis: *”Monotonically Constrained Polynomial Regression: An Application of Sum of Squares Techniques and Semidefinite Programming"*.

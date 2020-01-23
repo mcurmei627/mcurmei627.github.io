@@ -1,7 +1,7 @@
 ---
 title: "BitFunnel: Revisiting Signatures for Search"
-collection: publications
-permalink: /publication/bitfunnel
+collection: research
+permalink: /research/bitfunnel
 excerpt: ''
 date: 2017-08-07
 venue: 'Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval'
@@ -15,5 +15,3 @@ Since the mid-90s there has been a widely-held belief that signature files are i
 
 [`ACM`](https://dl.acm.org/citation.cfm?doid=3077136.3080789)
 [`code`](https://github.com/BitFunnel/BitFunnel)
-
-

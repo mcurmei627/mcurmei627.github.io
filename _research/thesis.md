@@ -1,7 +1,7 @@
 ---
 title: "Monotonically Constrained Polynomial Regression: An Application of Sum of Squares Techniques and Semidefinite Programming"
-collection: publications
-permalink: /publications/thesis
+collection: research
+permalink: /research/thesis
 excerpt:  'Operations Research and Financial Engineering Senior Thesis'
 date: 2017-06-01
 venue: 'Princeton University Senior Thesis'
@@ -20,5 +20,3 @@ key constraints is convexity with respect to a set of variables. Currently we ha
 [`MSJAR`](https://drive.google.com/file/d/1DQeItRRpwbtKIGad29YjfwU_uoDjuzWC/view)
 [`arXiv`](https://arxiv.org/pdf/1806.06996.pdf)
 [`code`](https://github.com/mcurmei627/dantzig)
-
-

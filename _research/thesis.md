@@ -4,7 +4,7 @@ collection: research
 permalink: /research/thesis
 excerpt:  'Operations Research and Financial Engineering Senior Thesis'
 date: 2017-06-01
-venue: 'Princeton University Senior Thesis'
+venue: 'Princeton University Senior Thesis. 2020'
 paperurl: 'http://arks.princeton.edu/ark:/88435/dsp01s4655k21r'
 citation: ''
 ---

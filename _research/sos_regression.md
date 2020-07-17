@@ -2,12 +2,10 @@
 title: "Shape-Constrained Regression using Sum of Squares Polynomials"
 collection: research
 permalink: /research/sosregression
-excerpt: ''
 date: 2020-04-08
-venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2004.03853'
 code: 'https://github.com/mcurmei627/dantzig'
-citation: '<b>Mihaela Curmei</b>, Georgina Hall. 2020. &quot;Shape-Constrained Regression using Sum of Squares Polynomials&quot;.'
+citation: '<b>Mihaela Curmei</b>, Georgina Hall. 2020.'
 ---
 The goal of this paper is to study the problem of multivariate shape-constrained polynomial
 regression, which is the problem of fitting a multivariate polynomial regressor to datapoints with

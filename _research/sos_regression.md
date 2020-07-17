@@ -1,5 +1,5 @@
 ---
-title: "<b>[NEW]</b> Shape-Constrained Regression using Sum of Squares Polynomials"
+title: "Shape-Constrained Regression using Sum of Squares Polynomials"
 collection: research
 permalink: /research/sosregression
 excerpt: ''

@@ -2,7 +2,7 @@
 title: "Monotonically Constrained Polynomial Regression: An Application of Sum of Squares Techniques and Semidefinite Programming"
 collection: research
 permalink: /research/thesis
-excerpt:  'Operations Research and Financial Engineering Senior Thesis'
+excerpt:  'Operations Research and Financial Engineering Senior Thesis, Winner of Procter & Gamble Prize for Outstanding Senior Thesis'
 date: 2017-06-01
 venue: 'Princeton University Senior Thesis. 2020'
 paperurl: 'http://arks.princeton.edu/ark:/88435/dsp01s4655k21r'
@@ -13,7 +13,7 @@ At Princeton I was fortunate to work with [Prof. Amir Ali Ahmadi](http://aaa.pri
 ![](../../images/thesis.png)
 
 Currently we are extending the framework to incorporate more complex shape constraints of the regressand. In practice, one of such
-key constraints is convexity with respect to a set of variables. Currently we have a preprint in preparation which describes a general approach for “Shape Constrained Regression”. For preliminary results refer to Section 8 of Georgina Hall's [PhD Dissertation](https://arxiv.org/pdf/1806.06996.pdf).
+key constraints is convexity with respect to a set of variables. Currently we have a manuscript under review at Operations Research Journal which describes a general approach for “Shape Constrained Regression using Sum of Squares Polynomials”. See unpublished work [here](https://arxiv.org/abs/2004.03853).
 
 
 [`thesis`](http://arks.princeton.edu/ark:/88435/dsp01s4655k21r)

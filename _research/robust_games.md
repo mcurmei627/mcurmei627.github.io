@@ -1,9 +1,9 @@
 ---
-title: 'Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty'
+title: '<b>[NEW]</b> Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty'
 collection: research
 permalink: /research/robust_games
 excerpt: ''
-date: 2020-08-10
+date: 2020-07-10
 venue: 'Theoretical Foundations of Reinforcement Learning Workshop @ ICML 2020'
 paperurl: 'https://arxiv.org/abs/2007.05647'
 citation: 'Wenshuo Guo, <b>Mihaela Curmei</b>, Serena Wang, Benjamin Recht, Michael I. Jordan. 2020'

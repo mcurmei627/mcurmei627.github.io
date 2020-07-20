@@ -2,7 +2,7 @@
 title: "BitFunnel: Revisiting Signatures for Search"
 collection: research
 permalink: /research/bitfunnel
-excerpt: ''
+excerpt: '<i>Best Paper Award Winner</i>'
 date: 2017-08-07
 venue: 'Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval'
 paperurl: 'https://dl.acm.org/citation.cfm?doid=3077136.3080789'

@@ -2,9 +2,9 @@
 title: "Monotonically Constrained Polynomial Regression: An Application of Sum of Squares Techniques and Semidefinite Programming"
 collection: research
 permalink: /research/thesis
-excerpt:  'Operations Research and Financial Engineering Senior Thesis, Winner of Procter & Gamble Prize for Outstanding Senior Thesis'
+excerpt:  '<i>Operations Research and Financial Engineering Senior Thesis, Winner of Procter & Gamble Prize for Outstanding Senior Thesis</i>'
 date: 2017-06-01
-venue: 'Princeton University Senior Thesis. 2020'
+venue: 'Princeton University Senior Thesis'
 paperurl: 'http://arks.princeton.edu/ark:/88435/dsp01s4655k21r'
 citation: ''
 ---

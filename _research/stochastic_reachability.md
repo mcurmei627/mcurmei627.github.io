@@ -4,7 +4,7 @@ collection: research
 permalink: /research/stochastic_reachability
 excerpt: ''
 date: 2020-07-10
-venue: 'Participatory AP Workshop @ ICML 2020'
+venue: 'Participatory Aproaches to Machine Learning Workshop @ ICML 2020'
 paperurl: 'https://people.eecs.berkeley.edu/~sarahdean/stochastic_reachability.pdf'
 citation: 'Sarah Dean, <b>Mihaela Curmei</b>, Benjamin Recht. 2020'
 ---

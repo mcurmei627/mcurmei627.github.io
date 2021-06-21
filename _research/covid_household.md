@@ -1,11 +1,11 @@
 ---
-title: 'Bla'
+title: 'Constructing and adjusting estimates for household transmission of SARS-CoV-2 from prior studies, widespread-testing and contact-tracing data'
 collection: research
 permalink: /research/covid_household
 excerpt: ''
 date: 2021-06-21
 venue: 'International Journal of Epidemiology'
-paperurl: 'https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyab108/6307150
+paperurl: 'https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyab108/6307150'
 citation: '<b>Mihaela Curmei</b>, Andrew Ilyas*, Owain Evans, Jacob Steinhardt. 2021'
 ---
 

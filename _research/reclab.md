@@ -5,7 +5,7 @@ permalink: /research/reclab
 paperurl: 'https://arxiv.org/pdf/2011.07931.pdf'
 excerpt: ''
 date: 2020-06-01
-venue:  'Under Review @ RecSys 2020'
+venue:  ''
 citation: 'Karl Krauth, Sarah Dean, Alex Zhao, <b>Mihaela Curmei</b>, Wenshuo Guo,  Benjamin Recht, Michael I. Jordan. 2020.'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '<b>[NEW]</b> Designing Recommender Systems with Reachability in Mind'
+title: 'Designing Recommender Systems with Reachability in Mind'
 collection: research
 permalink: /research/stochastic_reachability
 excerpt: ''

@@ -1,5 +1,5 @@
 ---
-title: '<b>[NEW]</b> Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty'
+title: 'Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty'
 collection: research
 permalink: /research/robust_games
 excerpt: ''

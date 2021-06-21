@@ -1,5 +1,5 @@
 ---
-title: "<b>[NEW]</b> Identification of Patterns in Cystic Fibrosis
+title: "Identification of Patterns in Cystic Fibrosis
 Physiotherapy with Unsupervised Learning"
 collection: research
 permalink: /research/fizzyo

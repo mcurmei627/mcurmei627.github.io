@@ -1,8 +1,8 @@
 ---
-title: "<b>[NEW]</b> Do Offline Metrics Predict Online Performance in Recommender Systems?"
+title: "Do Offline Metrics Predict Online Performance in Recommender Systems?"
 collection: research
 permalink: /research/reclab
-paperurl: ''
+paperurl: 'https://arxiv.org/pdf/2011.07931.pdf'
 excerpt: ''
 date: 2020-06-01
 venue:  'Under Review @ RecSys 2020'
@@ -18,3 +18,5 @@ We study the impact of adding exploration strategies, and observe that their eff
 In sum, our results provide necessary validation for the use of offline metrics as a proxy for online performance. However, they cast doubts on the importance of focusing on small offline performance improvements, especially in high-data regimes where current algorithms already predict near optimally. Instead, we point to issues of diversity, coverage, and sampling as having potentially higher impact.
 
 ![](../../images/RecSys.png)
+
+[`code`](https://github.com/berkeley-reclab/RecLab)

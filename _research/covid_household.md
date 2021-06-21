@@ -3,7 +3,7 @@ title: 'Constructing and adjusting estimates for household transmission of SARS-
 collection: research
 permalink: /research/covid_household
 excerpt: ''
-date: 2021-06-21
+date: 2020-06-21
 venue: 'International Journal of Epidemiology'
 paperurl: 'https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyab108/6307150
 citation: '<b>Mihaela Curmei</b>, Andrew Ilyas*, Owain Evans, Jacob Steinhardt. 2021'
@@ -16,4 +16,5 @@ Social distancing and lockdowns reduce community transmission of SARS-CoV-2, but
 [`code`](https://github.com/andrewilyas/covid-household-transmission)
 
 *Mihaela Curmei and Andrew Ilyas contributed equally to this work.*
+
 **Pre-print version of this work can be found on [medRxiv](https://www.medrxiv.org/content/10.1101/2020.05.23.20111559v2)**

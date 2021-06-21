@@ -1,6 +1,5 @@
 ---
-title: 'Constructing and adjusting estimates for household transmission of SARS-CoV-2 from prior studies, widespread-testing and contact-tracing data
-'
+title: 'Constructing and adjusting estimates for household transmission of SARS-CoV-2 from prior studies, widespread-testing and contact-tracing data'
 collection: research
 permalink: /research/covid_household
 excerpt: ''

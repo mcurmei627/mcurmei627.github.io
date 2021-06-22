@@ -23,6 +23,4 @@ underlying shape-constrained function that maps the feature vectors to the respo
 
 ![](../../images/sos_regression.png)
 
-
-[`arXiv`](https://arxiv.org/abs/2004.03853)
 [`code`](https://github.com/mcurmei627/dantzig)

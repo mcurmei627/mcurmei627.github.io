@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "7_ZPpTEaEsnWtBjAk_AqGJjS1lo2IfGH-bFoQ8Pt-i0"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -83,7 +83,7 @@ author:
   name             : "Mihaela Curmei"
   avatar           : "profile.jpg"
   bio              : "EECS PhD student"
-  location         : "510 Soda Hall"
+  location         : "534 Soda Hall"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nc6hvFgAAAAJ&hl=en"

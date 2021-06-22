@@ -110,7 +110,7 @@
 
 .page__hero {
   position: relative;
-  margin-bottom: 2em;
+  margin-bottom: 0em;
   @include clearfix;
   animation: intro 0.3s both;
   animation-delay: 0.25s;
@@ -266,7 +266,7 @@
   display: inline-block;
   margin-right: 5px;
   margin-bottom: 8px;
-  padding: 5px 10px;
+  padding: 5px 5px;
   text-decoration: none;
   border: 1px solid $light-gray;
   border-radius: $border-radius;

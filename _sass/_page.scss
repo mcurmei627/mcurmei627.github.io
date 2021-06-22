@@ -51,7 +51,7 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.2em;
     border-bottom: 1px solid $border-color;
   }
 
@@ -85,9 +85,10 @@
   }
 
   dt {
-    margin-top: 1em;
+    margin-top: 0.5em;
     font-family: $sans-serif;
     font-weight: bold;
+    font-size: $type-size-3;
   }
 
   dd {

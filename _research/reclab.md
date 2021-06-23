@@ -5,7 +5,8 @@ permalink: /research/reclab
 paperurl: 'https://arxiv.org/pdf/2011.07931.pdf'
 excerpt: ''
 date: 2020-06-01
-citation: 'Karl Krauth, Sarah Dean, Alex Zhao, <b>Mihaela Curmei</b>, Wenshuo Guo,  Benjamin Recht, Michael I. Jordan. 2020.'
+year: '2020'
+citation: 'Karl Krauth, Sarah Dean, Alex Zhao, <b>Mihaela Curmei</b>, Wenshuo Guo,  Benjamin Recht, Michael I. Jordan.'
 ---
 
 Recommender systems operate in an inherently dynamical setting. Past recommendations influence future behavior, including which data points are observed and how user preferences change. However, experimentation in production systems with real user dynamics is often infeasible and existing simulation-based approaches have limited scale. Many state-of-the-art algorithms are designed to solve supervised learning problems, and progress is judged only by offline metrics. In this work we focus on answering the question: Is offline behavior reflective of online performance?

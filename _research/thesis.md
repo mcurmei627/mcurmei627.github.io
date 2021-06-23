@@ -4,6 +4,7 @@ collection: research
 permalink: /research/thesis
 excerpt:  '<i>Operations Research and Financial Engineering Senior Thesis, Winner of Procter & Gamble Prize for Outstanding Senior Thesis</i>'
 date: 2017-06-01
+year: '2017'
 venue: 'Princeton University Senior Thesis'
 paperurl: 'http://arks.princeton.edu/ark:/88435/dsp01s4655k21r'
 citation: ''

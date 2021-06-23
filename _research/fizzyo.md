@@ -6,8 +6,9 @@ permalink: /research/fizzyo
 paperurl: 'https://drive.google.com/file/d/1d7R_oRW4IJoczJ8_fSRdOjn9u2cP73sv/view'
 excerpt: ''
 date: 2020-07-09
-venue:  'Healthcare Systems, Population Health, and the Role of Health-Tech Workshop @ ICML 2020 Workshop'
-citation: 'Olga Liakhovich, Tempest van Schaik, Bianca Furtuna, <b>Mihaela Curmei</b>, Emma Raywood, Helen Douglas, Kunal Kapoor, Nicole Filipow, Eleanor Main. 2020.'
+year: '2020'
+venue:  'Healthcare Systems, Population Health, and the Role of Health-Tech Workshop @ ICML Workshop'
+citation: 'Olga Liakhovich, Tempest van Schaik, Bianca Furtuna, <b>Mihaela Curmei</b>, Emma Raywood, Helen Douglas, Kunal Kapoor, Nicole Filipow, Eleanor Main.'
 ---
 
 Cystic Fibrosis  is the most common life-limiting inherited disorder in the UK, affecting approximately 1 in 2500 babies born.  It is a systemic genetic disorder that mainly affects the respiratory system.  Excessive thick sticky mucus can cause cycles of infection, inflammation and lung damage leading to a deterioration in health.  Despite improvements in care, Cystic Fibrosis remains progressive and incurable. Doctors routinely prescribe airway clearance therapy (ACT) to patients along with suggesting an increase in physical activity.  ACT physiotherapy entails breathing into special devices that promote the elimination of mucus. To date, there have been no controlled studies that validate its effectiveness.

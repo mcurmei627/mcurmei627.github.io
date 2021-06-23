@@ -8,6 +8,7 @@ year: '2020'
 venue: 'Participatory Aproaches to Machine Learning Workshop @ ICML'
 paperurl: 'https://people.eecs.berkeley.edu/~sarahdean/stochastic_reachability.pdf'
 citation: 'Sarah Dean, <b>Mihaela Curmei</b>, Benjamin Recht'
+last: True
 ---
 
 Access to digital content is often mediated by recommendations, which are primarily designed to

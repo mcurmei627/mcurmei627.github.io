@@ -34,6 +34,11 @@
       {% endif %}
     </h2> -->
 
+    {% if post.last %}
+      <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ post.year }}</h2>
+    {% endif %}
+
+
     <p class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -41,7 +46,6 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">"{{ title }}"</a>
       {% endif %}
       {{  post.citation }}
-      <br>
       <i>{{post.venue}}</i>, {{post.year}}
       {% if post.excerpt %}
         <br>

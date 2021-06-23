@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign cyear = 0 %}
 {% for post in site.research reversed %}
+  {% if post.year > cyear %}
+    <h2> {{post.year}} </h2>
+    {% assign cyear = post.year %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}

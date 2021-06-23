@@ -40,10 +40,12 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">"{{ title }}"</a>
       {% endif %}
-      <br>
       {{  post.citation }}
       <br>
-      <i>{{post.venue}}</i>>, {{post.year}}
+      <i>{{post.venue}}</i>, {{post.year}}
+      {% if post.excerpt %}
+      <br>
+      <i>{{post.excerpt}}</i>
     </p>
 
     {% if post.read_time %}

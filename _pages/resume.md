@@ -14,14 +14,14 @@ redirect_from:
 Education
 ======
 *2019 - current*
-:   **PhD, Electrical Engineering and Computer Science** 
+:   **PhD, Electrical Engineering and Computer Science**
 :   *University of California, Berkeley*
 
-- - - 
+- - -
 
 *2013 - 2017*
-:   **BSE, Operations Research and Financial Engineering** 
-:   *Princeton University, NJ* 
+:   **BSE, Operations Research and Financial Engineering**
+:   *Princeton University, NJ*
     - Summa Cum Laude
     - Certificate in Applications of Computing.
     - Thesis: *”Monotonically Constrained Polynomial Regression: An Application of Sum of Squares Techniques and Semidefinite Programming"*.
@@ -30,10 +30,25 @@ Education
 
 - - -
 
+Teaching
+======
+*Fall 2021*
+:   **[CS C281A. Statistical Learning Theory](https://www2.eecs.berkeley.edu/Courses/CSC281A/)**
+:   *University of California, Berkeley*
+    - Graduate Student Instructor
+
+*Fall 2020*
+:   **[DATA102/STAT102. Data, Inference, and Decisions](https://data102.org/fa20/)**
+:   *University of California, Berkeley*
+    - Graduate Student Instructor
+    - Recipient of *Outstanding GSI Award*
+
+- - -
+
 Work experience
 ======
 *2017 - 2019*
-:   **Software Development Engineering** 
+:   **Software Development Engineering**
 :   *Commercial Software Engineering, Microsoft, Redmond, WA*
     - Engaged with Azure customers, commercial partners and NGOs to prototype innovative solutions using early release Azure products, ML techniques from recent academic work and open source projects.
     - [Project Fizzyo](https://fizzyo.github.io/)
@@ -44,7 +59,7 @@ Work experience
     - [Famine Early Action Mechanism](https://www.worldbank.org/en/programs/famine-early-action-mechanism)
       + Crisis alerting system that provides granular famine risk 6-12 month predictions, used by humanitarian aid institutions to preemptively allocate funds to communities at high risk.
       + Collaborated with World Bank Famine Prevention program to build an interpretability framework that quantifies the magnitude of the risk factors
-      + Project under executive sponsorship of Microsoft Philanthropies. 
+      + Project under executive sponsorship of Microsoft Philanthropies.
     - Prototyped Reinforcement Learning solutions for industrial scenarios, in partnership with a commercial airline and a Formula 1 race team.
 
 - - -
@@ -56,7 +71,7 @@ Work experience
     - Identified inefficiencies in Bing's matching algorithm and proposed an optimization which was successfully implemented. Currently the end-to-end computation cost per search query have been reduced by 15%.
     - Co-authored the research paper discussing BitFunnel's performance which was be presented at the SIGIR 2017 and won Best Paper Award.
 
-- - - 
+- - -
 
 *2015*
 :   **Software Engineering Intern**
@@ -74,5 +89,11 @@ Academic Distinctions
 - Associate Membership -  Sigma Xi Scientific Research Society, *Princeton, NJ, June 2017*
 - "Undergraduate Student of the Year" - Prime Minister National Award, *Moldova, December 2014*
 - Honorable mention - International Mathematical Olympiad, *Argentina, July 2012*
+
+- - -
+
+Service
+======
+- Reviewer for ICML (2020, 2021); NeurIPS 2021
 
 - - -

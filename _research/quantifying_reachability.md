@@ -9,7 +9,6 @@ year: '2021'
 venue: 'International Conference on Machine Learning; ICML'
 paperurl: 'https://arxiv.org/pdf/2107.00833.pdf'
 citation: 'Sarah Dean*, <b>Mihaela Curmei*</b>, Benjamin Recht'
-last: True
 ---
 
 In this work, we consider how preference models in interactive recommendation systems

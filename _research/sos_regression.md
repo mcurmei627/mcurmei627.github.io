@@ -4,7 +4,6 @@ collection: research
 permalink: /research/sosregression
 excerpt: ''
 date: 2020-04-08
-year: '2020'
 venue: 'Under review @ Operations Research Journal'
 paperurl: 'https://arxiv.org/abs/2004.03853'
 code: 'https://github.com/mcurmei627/dantzig'

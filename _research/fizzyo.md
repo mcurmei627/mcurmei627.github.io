@@ -6,7 +6,6 @@ permalink: /research/fizzyo
 paperurl: 'https://drive.google.com/file/d/1d7R_oRW4IJoczJ8_fSRdOjn9u2cP73sv/view'
 excerpt: ''
 date: 2020-07-09
-year: '2020'
 venue:  'Healthcare Systems, Population Health, and the Role of Health-Tech Workshop @ ICML Workshop'
 citation: 'Olga Liakhovich, Tempest van Schaik, Bianca Furtuna, <b>Mihaela Curmei</b>, Emma Raywood, Helen Douglas, Kunal Kapoor, Nicole Filipow, Eleanor Main.'
 ---

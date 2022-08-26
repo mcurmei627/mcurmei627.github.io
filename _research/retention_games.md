@@ -4,7 +4,6 @@ collection: research
 permalink: /research/retention_games
 excerpt: ''
 date: 2022-06-06
-year: '2022'
 venue: 'Under Review'
 paperurl: 'https://arxiv.org/pdf/2206.02667.pdf'
 citation: 'Sarah Dean, <b>Mihaela Curmei</b>, Lillian J Ratliff, Jamie Morgenstern, Maryam Fazel'

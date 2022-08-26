@@ -5,7 +5,6 @@ collection: research
 permalink: /research/quantifying_reachability
 excerpt: ''
 date: 2021-06-30
-year: '2021'
 venue: 'International Conference on Machine Learning; ICML'
 paperurl: 'https://arxiv.org/pdf/2107.00833.pdf'
 citation: 'Sarah Dean*, <b>Mihaela Curmei*</b>, Benjamin Recht'

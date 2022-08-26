@@ -4,7 +4,6 @@ collection: research
 permalink: /research/robust_games
 excerpt: ''
 date: 2020-07-10
-year: '2020'
 venue: 'Theoretical Foundations of Reinforcement Learning Workshop @ ICML'
 paperurl: 'https://arxiv.org/abs/2007.05647'
 citation: 'Wenshuo Guo, <b>Mihaela Curmei</b>, Serena Wang, Benjamin Recht, Michael I. Jordan'

@@ -4,7 +4,6 @@ collection: research
 permalink: /research/preference_shifts
 excerpt: ''
 date: 2022-08-01
-year: '2022'
 venue: '16th ACM Conference on Recommender Systems, RecSys'
 paperurl: 'https://arxiv.org/pdf/2208.01534.pdf'
 citation: '<b>Mihaela Curmei</b>, Andreas Haupt, Dylan Hadfield-Menell, Benjamin Recht'

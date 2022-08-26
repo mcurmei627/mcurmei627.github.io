@@ -5,7 +5,6 @@ permalink: /research/reclab
 paperurl: 'https://arxiv.org/pdf/2011.07931.pdf'
 excerpt: ''
 date: 2020-06-01
-year: '2020'
 venue: 'In submission'
 citation: 'Karl Krauth, Sarah Dean, Alex Zhao, <b>Mihaela Curmei</b>, Wenshuo Guo,  Benjamin Recht, Michael I. Jordan.'
 ---

@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third year PhD student in Electrical Engineering and Computer Science at Berkeley and I am affiliated with the [Berkeley AI Reseach (BAIR)](https://bair.berkeley.edu/) lab. Broadly my research interests lie at the intersection of Machine Learning, Game Theory and Mechanism Design. I am currently being advised by Prof. [Ben Recht](https://people.eecs.berkeley.edu/~brecht/).
+I am a 4th year PhD student in Electrical Engineering and Computer Science at Berkeley and I am affiliated with the [Berkeley AI Reseach (BAIR)](https://bair.berkeley.edu/) lab. I am broadly working in Statistical Machine Learning with a focus on Societal Impacts and Recommendation Systems. I am fortunate to be advised by Prof. [Ben Recht](https://people.eecs.berkeley.edu/~brecht/). This summer I worked at Google Research with [Walid Krinchine](http://walid.krichene.net/) on Privacy in Recommendation Systems.
 
-In the summer of 2017 I graduated from Princeton University with a degree in Operations Research and Financial Engineering.  At Princeton I worked with Prof. [Amir Ali Ahmadi](http://aaa.princeton.edu/) and [Georgina Hall](https://sites.google.com/view/georgina-hall) on Sum of Squares Optimization for Machine Learning.
+In 2017 I graduated from Princeton University with a degree in Operations Research and Financial Engineering; there I worked with Prof. [Amir Ali Ahmadi](http://aaa.princeton.edu/) and [Georgina Hall](https://sites.google.com/view/georgina-hall) on Sum of Squares Optimization for Machine Learning.
 
 I took an academic hiatus in 2017-2019 and I joined Microsoft as a data scientist in the Commercial Software Engineering group.

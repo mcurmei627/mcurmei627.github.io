@@ -47,6 +47,14 @@ Teaching
 
 Work experience
 ======
+*Summer 2022*
+:   **Student Researcher**
+:   *Google Research, Mountain View, CA*
+    - Investigated privacy-accuracy tradeoffs for recommendation systems.
+    - Improved performance of current techniques by leveraging non-private side information.
+
+- - -
+
 *2017 - 2019*
 :   **Software Development Engineering**
 :   *Commercial Software Engineering, Microsoft, Redmond, WA*

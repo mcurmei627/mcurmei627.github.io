@@ -2,7 +2,8 @@
 title: "Private Matrix Factorization with Public Item Features"
 collection: research
 permalink: /research/dpcmf
-date: 2022-09-14
+date: 2023-09-14
+excerpt: ''
 venue: 'Proceedings of the 17th ACM Conference on Recommender Systems'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3604915.3608833'
 citation: '<b>Mihaela Curmei</b>, Walid Krichene, Li Zhang, Mukund Sundararajan'

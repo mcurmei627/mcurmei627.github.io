@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mihaela Curmei"
   avatar           : "profile.jpg"
-  bio              : "EECS PhD student"
-  location         : "534 Soda Hall"
-  employer         :
+  bio              : "Research Scientist"
+  location         : 
+  employer         : "Meta"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nc6hvFgAAAAJ&hl=en"
-  email            : "mcurmei@eecs.berkeley.edu"
+  email            : "curmeimihaela@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

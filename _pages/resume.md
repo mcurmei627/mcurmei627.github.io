@@ -13,9 +13,10 @@ redirect_from:
 
 Education
 ======
-*2019 - current*
+*2019 - 2024*
 :   **PhD, Electrical Engineering and Computer Science**
 :   *University of California, Berkeley*
+    - Dissertation: Feedback Driven Dynamics in Socio-Algorithmic Systems
 
 - - -
 
@@ -47,6 +48,12 @@ Teaching
 
 Work experience
 ======
+*2024 - present*
+:   **Researcher Scientist**
+:   *Meta, Menlo Part, CA*
+
+- - -
+
 *Summer 2022*
 :   **Student Researcher**
 :   *Google Research, Mountain View, CA*

@@ -1,11 +1,11 @@
 ---
-title: 'Multi-learner risk reduction under endogenous participation dynamics'
+title: 'Emergent specialization from participation dynamics and multi-learner retraining'
 collection: research
 permalink: /research/retention_games
 excerpt: ''
 date: 2022-06-06
-venue: 'Under Review'
-paperurl: 'https://arxiv.org/pdf/2206.02667.pdf'
+venue: 'AIStats'
+paperurl: 'https://proceedings.mlr.press/v238/dean24a.html'
 citation: 'Sarah Dean, <b>Mihaela Curmei</b>, Lillian J Ratliff, Jamie Morgenstern, Maryam Fazel'
 ---
 
